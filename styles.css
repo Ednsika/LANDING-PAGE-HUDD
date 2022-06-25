@@ -136,8 +136,8 @@ footer img{
         gap: 10px;
     }
    main .bg-img{
-        height: 290px;
-        width: 320px;
+        height: 270px;
+        width: 345px;
         margin-right: auto;
         margin-left: auto;
         margin-top: 10px;
@@ -157,7 +157,7 @@ footer img{
    p{
     margin-top: 5px;
     font-size: 16px;
-    margin-bottom: 15px;
+    margin-bottom: 22px;
    }
    label{
     margin-top: 10px;
@@ -169,8 +169,8 @@ footer img{
         text-align: center;
         font-size: 10px;
         font-weight: semi-bold;
-        height: 35px;
-        padding: 0px;
+        height: 44px;
+        margin-bottom: 50px;
    }
    footer{
     grid-column: 1 / -1;
